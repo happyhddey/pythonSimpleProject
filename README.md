@@ -9,9 +9,9 @@ implementation example code도 올라올 예정입니다<br>
 
 ## Index
 
-[UPDATED] 업다운 숫자게임<br>
-[YET] tic-tac-toe<br>
-[YET] 사칙연산 계산기<br>
+[LINK] 업다운 숫자게임<br>
+[TODO] tic-tac-toe<br>
+[TODO] 사칙연산 계산기<br>
 
 
 ## License
