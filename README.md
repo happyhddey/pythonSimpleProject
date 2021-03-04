@@ -9,7 +9,7 @@ implementation example code도 올라올 예정입니다<br>
 
 ## Index
 
-[[LINK](http://www.google.co.kr)] 업다운 숫자게임<br>
+[[LINK](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/updownNumberGame.md)] 업다운 숫자게임<br>
 [TODO] tic-tac-toe<br>
 [TODO] 사칙연산 계산기<br>
 
