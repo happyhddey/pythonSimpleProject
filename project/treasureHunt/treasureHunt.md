@@ -25,7 +25,7 @@ LEVEL 1을 해결했다면, 이 문제도 풀 수 있을 거예요.
 <br>
 
 ## LEVEL 3: 너무 긴... 암호
-이번에 해독할 암호는 [여기(https://github.com/happyhddey/pythonSimpleProject/blob/main/project/updownNumberGame.md)]에 있습니다.  
+이번에 해독할 암호는 [여기(https://github.com/happyhddey/pythonSimpleProject/blob/main/project/treasureHunt/tooLongCode.txt)] 에 있습니다.  
 이 파일 안에 숨겨진 단어를 찾아볼까요?  
 그런데... 암호가 많이 긴 탓에 `코딩`을 해서 해결해야 할 것 같아요.  
 LEVEL 2에서 얻은 아이디어를 바탕으로 암호를 해독할 수 있는 파이썬 코드를 만들어봐요!  
@@ -38,7 +38,7 @@ LEVEL 3를 해결하셨나요?
 축하합니다!  
 이번엔 `암호 속의 암호`예요.  
 무슨 소리인지 모르겠다구요?  
-[여기(https://github.com/happyhddey/pythonSimpleProject/blob/main/project/updownNumberGame.md)] 테스트케이스가 있으니 이걸로 한 번 테스트 해봐요!  
+[여기(https://github.com/happyhddey/pythonSimpleProject/blob/main/project/treasureHunt/codeInCode.txt)] 테스트케이스가 있으니 이걸로 한 번 테스트 해봐요!  
 이 테스트케이스를 해독하고 나면 `반짝반짝 작은별` 노래가 떠오르 거예요.  
 아 참, 반드시 PYTHON의 `함수` 기능을 사용해야 해요!  
 <br>
@@ -59,7 +59,7 @@ LEVEL 3를 해결하셨나요?
 
 ## LEVEL 6: 최종 암호
 여기까지 오신 당신이라면 이미 암호를 해독할 준비가 다 되어 있어요!  
-보물 위치가 담긴 암호는 [여기(https://github.com/happyhddey/pythonSimpleProject/blob/main/project/updownNumberGame.md)]에 있어요.
+보물 위치가 담긴 암호는 [여기(https://github.com/happyhddey/pythonSimpleProject/blob/main/project/treasureHunt/finalCode.txt)] 에 있어요.
 지금까지 해왔던 것처럼, 암호를 해독해 보아요.
 보물이 어디에 숨겨져 있나요?
 <br>
