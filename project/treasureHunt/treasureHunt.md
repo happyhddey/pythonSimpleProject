@@ -4,8 +4,6 @@
 교실 어딘가에 `보물`이 숨겨져 있어요!  
 `암호`를 해독하여 보물을 찾아봅시다.  
 <br>
-<br>
-<br>
 
 ## LEVEL 1: 거리두는 글자들
 `HWEVALWJPOXCPWPKYEOF`  
