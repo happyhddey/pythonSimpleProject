@@ -105,7 +105,8 @@ while not isEndOfGame:                          # 게임이 끝날 때까지 루
 사실 이 코드 자체는 건드릴 게 없답니다.  
 아직 `구현되지 않은 함수`를 쓰고 있다는 게 문제일 뿐이에요.  
 이 말은???  
-`skeleton code`에 사용된 `함수`만 코딩해주면 된다는 것!!ㅎㅎ
+`skeleton code`에 사용된 `함수`만 코딩해주면 된다는 것!!ㅎㅎ  
+`skeleton code`는 [LINK(https://github.com/happyhddey/pythonSimpleProject/blob/main/project/allYouNeedIsFunction/bingoGame.py) 여기]에 있어요!  
 <br>
 <br>
 <br>
