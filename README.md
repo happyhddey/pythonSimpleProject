@@ -9,9 +9,9 @@ implementation example code도 올라올 예정입니다<br>
 
 ## Index
 
-[[LINK](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/updownNumberGame.md)] 업다운 숫자게임<br>
+[[LINK](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/updown/updownNumberGame.md)] 업다운 숫자게임<br>
 [[LINK](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/treasureHunt/treasureHunt.md)] 보물 찾기 <br>
-[TODO] tic-tac-toe<br>
+[[LINK](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/allYouNeedIsFunction/bingoGame.md)] 빙고 게임<br>
 [TODO] 사칙연산 계산기<br>
 
 
