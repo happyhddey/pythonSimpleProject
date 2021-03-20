@@ -203,6 +203,7 @@ while not isEndOfGame:                          # 게임이 끝날 때까지 루
 
 ## isBingo(gameBoard)
 `보드판 전체`에 `빙고`가 있는지 확인하는 함수입니다.  
+참고로 `한 줄`로 구현해야해요.  
 어떤 값을 return해야 할까요?  
 아 참, `isBingoInA`, `isBingoInB`, `isBingoInDiagonal` 함수를 구현한 이유가 뭘까요?^^  
 <br>
