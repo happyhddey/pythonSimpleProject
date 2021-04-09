@@ -11,8 +11,8 @@
 [[업다운 숫자게임](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/updown/updownNumberGame.md)] get familiar to 'python grammar'   
 [[보물 찾기](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/treasureHunt/treasureHunt.md)] get familiar to 'for loop'   
 [[빙고 게임](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/allYouNeedIsFunction/bingoGame.md)] get familiar to 'function'   
-[[거리두기 카드게임](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/distancingCardGame/distancingCardGame.md)] get familiar to 'funcion'
-[[거리두기 카드게임](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/reverseEngineering/mipsInstruction.md)] get familiar to assembly
+[[거리두기 카드게임](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/distancingCardGame/distancingCardGame.md)] get familiar to 'funcion'  
+[[리버스 엔지니어링](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/reverseEngineering/mipsInstruction.md)] get familiar to assembly
 <br>
 <br>
 
