@@ -7,6 +7,7 @@
 그러면 컴퓨터는 그 `기계어 코드`를 실행하는 거죠!  
 `assembly` 언어는 `Reverse Engineering`에 필수적이예요.  
 그럼 이번 시간엔 python으로 흉내낸 `MIPS Insturction` 어셈블리 명령어를 살펴봅시다!  
+코드는 [여기(https://github.com/happyhddey/pythonSimpleProject/edit/main/project/reverseEngineering/mipsInstruction.py)]에.  
 <br>
 <br>
 <br>
