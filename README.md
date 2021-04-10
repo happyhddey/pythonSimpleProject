@@ -8,11 +8,11 @@
 <br>
 
 ## Index
-[[업다운 숫자게임](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/updown/updownNumberGame.md)] get familiar to 'python grammar'   
-[[보물 찾기](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/treasureHunt/treasureHunt.md)] get familiar to 'for loop'   
-[[빙고 게임](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/allYouNeedIsFunction/bingoGame.md)] get familiar to 'function'   
-[[거리두기 카드게임](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/distancingCardGame/distancingCardGame.md)] get familiar to 'funcion'  
-[[MIPS 인스트럭션](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/reverseEngineering/mipsInstruction.md)] get familiar to assembly
+[[업다운 숫자게임](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/updown/updownNumberGame.md)] python grammar   
+[[보물 찾기](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/treasureHunt/treasureHunt.md)] for loop   
+[[빙고 게임](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/allYouNeedIsFunction/bingoGame.md)] function   
+[[거리두기 카드게임](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/distancingCardGame/distancingCardGame.md)] function, simple AI  
+[[MIPS 인스트럭션](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/reverseEngineering/mipsInstruction.md)] function, assembly
 <br>
 <br>
 
