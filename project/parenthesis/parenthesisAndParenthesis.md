@@ -29,7 +29,7 @@ SyntaxError: invalid syntax
 2. 잘못 짝지어진 괄호  
     `)`, `()[`, `(]`, `([]`, `(){})`
 
-참고로 `테스트케이스`는 [여기](https://happyhddey.github.io/pythonSimpleProject/blob/main/project/parenthesis/index.html)에 있어요~
+참고로 `테스트케이스`는 [여기](https://happyhddey.github.io/pythonSimpleProject/project/parenthesis/index.html)에 있어요~
 <br>
 <br>
 
