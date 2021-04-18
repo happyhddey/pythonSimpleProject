@@ -87,7 +87,7 @@ while not is_end:
 게임을 실행할 때 필요한 `변수`랑 `함수`를 `하나로 포장`해둔 거죠.  
 무엇보다 박스 안에 있는 `변수`랑 `함수`를 필요할 때마다 꺼내쓸 수 있어서 편해요.  
 박스 하나당 플레이어 한 명이니까 구분하기도 편하구요.  
-코드는 [여기](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/bullsAndCows/bullsAndCows.py)로~
+코드는 [여기](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/bullsAndCows/bullsAndCowsClass.py)로~
 ```python
 class BaseballGame():
 
