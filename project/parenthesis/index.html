@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./index.css">
+    <title>괄호검사기 testcase</title>
+</head>
+<body>
+    <div class="testcase-container">
+        <div class="testcase-header-container">
+            <h2 class="testcase-number">CODE #1 (GOOD)</h2>
+            <button class="copy">COPY</button>
+        </div>
+        <div class="testcase-code-container">
+            <pre class="testcase-code">
+7
+def printHello(name):
+    print("hello", name)
+
+name = ['abc', 'def', 'ghi']
+printHello(name[0])
+printHello(name[1])
+printHello(name[2])</pre>
+        </div>
+    </div>
+
+    <div class="testcase-container">
+        <div class="testcase-header-container">
+            <h2 class="testcase-number">CODE #2 (GOOD)</h2>
+            <button class="copy">COPY</button>
+        </div>
+        <div class="testcase-code-container">
+            <pre class="testcase-code">
+21
+int findMax(vector&ltint&gt sticker, int start, int end) {
+	int prevMaxIncluded = 0;
+	int prevMaxNotIncluded = 0;
+
+	for (int i = start; i &lt= end; i++) {
+		int curMaxIncluded = sticker[i] + prevMaxNotIncluded;
+		int curMaxNotIncluded = prevMaxIncluded;
+		if (prevMaxIncluded &lt prevMaxNotIncluded) {
+			curMaxNotIncluded = prevMaxNotIncluded;
+		}
+		prevMaxIncluded = curMaxIncluded;
+		prevMaxNotIncluded = curMaxNotIncluded;
+	}
+
+	if (prevMaxNotIncluded &lt prevMaxIncluded) {
+		return prevMaxIncluded;
+	}
+	else {
+		return prevMaxNotIncluded;
+	}
+}</pre>
+        </div>
+    </div>
+
+    <div class="testcase-container">
+        <div class="testcase-header-container">
+            <h2 class="testcase-number">CODE #3 (BAD)</h2>
+            <button class="copy">COPY</button>
+        </div>
+        <div class="testcase-code-container">
+            <pre class="testcase-code">
+21
+int findMax(vector&ltint&gt sticker, int start, int end) {
+	int prevMaxIncluded = 0;
+	int prevMaxNotIncluded = 0;
+
+	for (int i = start; i &lt= end; i++) {
+		int curMaxIncluded = sticker[i] + prevMaxNotIncluded;
+		int curMaxNotIncluded = prevMaxIncluded;
+		if (prevMaxIncluded &lt prevMaxNotIncluded)
+			curMaxNotIncluded = prevMaxNotIncluded;
+		}
+		prevMaxIncluded = curMaxIncluded;
+		prevMaxNotIncluded = curMaxNotIncluded;
+	}
+
+	if (prevMaxNotIncluded &lt prevMaxIncluded) {
+		return prevMaxIncluded;
+	}
+	else {
+		return prevMaxNotIncluded;
+	}
+}</pre>
+        </div>
+    </div>
+
+    <div class="testcase-container">
+        <div class="testcase-header-container">
+            <h2 class="testcase-number">CODE #4 (GOOD)</h2>
+            <button class="copy">COPY</button>
+        </div>
+        <div class="testcase-code-container">
+            <pre class="testcase-code">
+45
+int solution(vector&ltvector&ltint>> land)
+{
+    int answer = 0;
+    bool number[100000] = { false, };
+
+    // initialize cache vector
+    vector&ltint> cache;
+    for (int i = 0; i &lt 4; i++) {
+        cache.push_back(0);
+    }
+
+    vector&ltvector&ltint>>::iterator iter;
+    for (iter = land.begin(); iter != land.end(); ++iter) {
+        int maxFirst = 0, maxSecond = 0, maxFirstIndex = 0;
+        vector&ltint> row = *iter;
+        for (int i = 0; i &lt 4; i++) {
+            cache[i] = row[i] + cache[i];
+            if ((cache[i] > maxFirst) && (cache[i] > maxSecond)) {
+                maxSecond = maxFirst;
+                maxFirst = cache[i];
+                maxFirstIndex = i;
+            }
+            else if ((cache[i] &lt= maxFirst) && (cache[i] >= maxSecond)) {
+                maxSecond = cache[i];
+            }
+        }
+        
+        for (int i = 0; i &lt 4; i++) {
+            if (maxFirstIndex == i) {
+                cache[i] = maxSecond;
+            }
+            else {
+                cache[i] = maxFirst;
+            }
+        }
+    }
+
+    for (int i = 0; i &lt 4; i++) {
+        if (cache[i] >= answer) {
+            answer = cache[i];
+        }
+    }
+
+    return answer;
+}</pre>
+        </div>
+    </div>
+
+    <div class="testcase-container">
+        <div class="testcase-header-container">
+            <h2 class="testcase-number">CODE #5 (BAD)</h2>
+            <button class="copy">COPY</button>
+        </div>
+        <div class="testcase-code-container">
+            <pre class="testcase-code">
+45
+int solution(vector&ltvector&ltint>> land)
+{
+    int answer = 0;
+    bool number[100000] = { false, };
+
+    // initialize cache vector
+    vector&ltint> cache;
+    for (int i = 0; i &lt 4; i++) {
+        cache.push_back(0);
+    }
+
+    vector&ltvector&ltint>>::iterator iter;
+    for (iter = land.begin(); iter != land.end(); ++iter) {
+        int maxFirst = 0, maxSecond = 0, maxFirstIndex = 0;
+        vector&ltint> row = *iter;
+        for (int i = 0; i &lt 4; i++) {
+            cache[i] = row[i] + cache[i];
+            if ((cache[i > maxFirst) && (cache[i] > maxSecond)) {
+                maxSecond = maxFirst;
+                maxFirst = cache[i];
+                maxFirstIndex = i;
+            }
+            else if ((cache[i] &lt= maxFirst) && (cache[i] >= maxSecond)) {
+                maxSecond = cache[i];
+            }
+        }
+        
+        for (int i = 0; i &lt 4; i++) {
+            if (maxFirstIndex == i) {
+                cache[i] = maxSecond;
+            }
+            else {
+                cache[i] = maxFirst;
+            }
+        }
+    }
+
+    for (int i = 0; i &lt 4; i++) {
+        if (cache[i] >= answer) {
+            answer = cache[i];
+        }
+    }
+
+    return answer;
+}</pre>
+        </div>
+    </div>
+
+
+    <script src="./index.js"></script>
+</body>
+</html>

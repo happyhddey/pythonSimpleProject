@@ -1,0 +1,26 @@
+body{
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.testcase-container{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.testcase-header-container{
+    display: flex;
+    align-items: baseline;
+}
+
+.testcase-number{
+    margin: 0%;
+    margin-right: 15px;
+    font-family: 'Courier New', monospace;
+    float: left;
+}
+
+pre{
+    font-family: 'Courier New', monospace;
+}
