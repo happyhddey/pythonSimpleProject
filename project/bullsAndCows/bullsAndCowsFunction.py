@@ -1,3 +1,5 @@
+import random
+
 def set_answer(size):
     answer = []
     for _ in range(size):
