@@ -1,0 +1,52 @@
+body{
+    padding: 10% 30%;
+}
+
+.codebook-box, .code-box{
+    margin: 20px auto;
+    width: 100%;
+
+    padding: 6px 8px;
+    background: white;
+    background: rgba(255,255,255,0.8);
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 15px;
+}
+
+.title{
+    margin: 10px;
+    text-align: center;
+}
+
+.codebook-container, .code-container{
+    margin: 15px;
+}
+
+.codebook, .code {
+    overflow: auto;
+    white-space: pre-wrap;
+    word-break: break-all;
+    margin: 0%;
+    text-align: center;
+    font-family: monospace;
+    font-size: large;
+    line-height: 18px;
+    color: #555;
+}
+
+.copy-container{
+    margin: 10px;
+}
+
+.copy{
+    display: block;
+    margin: 0 auto;
+
+    color: white;
+    border-radius: 7px;
+    border: None;
+    background-color: rgb(241, 205, 0);
+    padding: 8px 16px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    cursor: pointer;
+}

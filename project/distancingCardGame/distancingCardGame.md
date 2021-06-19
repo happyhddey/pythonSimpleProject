@@ -2,7 +2,10 @@
 
 ## Introduction
 이번 프로젝트에서는 `거리두기 카드게임`을 구현할 거예요~  
-어떤 게임인지는... rule에서 알아봅시다.  
+`거리두기 카드게임`이 어떤 게임이냐?  
+[여기](https://happyhddey.github.io/allaboutfe/project3/index.html)에서 플레이해봅시다.  
+그래도 룰을 잘 모르겠다구요?  
+그럼... 아래에서 알아봅시다.  
 <br>
 <br>
 

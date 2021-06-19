@@ -8,13 +8,14 @@
 <br>
 
 ## Index
-[[업다운 숫자게임](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/updown/updownNumberGame.md)] python grammar   
-[[보물 찾기](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/treasureHunt/treasureHunt.md)] for loop   
-[[빙고 게임](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/allYouNeedIsFunction/bingoGame.md)] function   
-[[거리두기 카드게임](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/distancingCardGame/distancingCardGame.md)] function, simple AI  
-[[MIPS 인스트럭션](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/reverseEngineering/mipsInstruction.md)] function, assembly  
-[[숫자야구](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/bullsAndCows/bullsAndCows.md)] function, class  
-[[괄호 Checker](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/parenthesis/parenthesisAndParenthesis.md)] stack  
+[[업다운 숫자게임](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/updown/updownNumberGame.md)] PYTHON SIMPLE GRAMMAR   
+[[보물 찾기](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/treasureHunt/treasureHunt.md)] FOR LOOP   
+[[빙고 게임](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/allYouNeedIsFunction/bingoGame.md)] FUNCTION   
+[[거리두기 카드게임](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/distancingCardGame/distancingCardGame.md)] FUNCTION, SIMPLE AI  
+[[MIPS 인스트럭션](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/reverseEngineering/mipsInstruction.md)] FUNCTION, ASSEMBLY  
+[[숫자야구](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/bullsAndCows/bullsAndCows.md)] FUNCTION, CLASS  
+[[괄호 Checker](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/parenthesis/parenthesisAndParenthesis.md)] CLASS, STACK  
+[[gitRun](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/gitRun/gitRun.md)] Git
 <br>
 <br>
 
