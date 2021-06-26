@@ -16,6 +16,7 @@
 [[숫자야구](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/bullsAndCows/bullsAndCows.md)] FUNCTION, CLASS  
 [[괄호 Checker](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/parenthesis/parenthesisAndParenthesis.md)] CLASS, STACK  
 [[gitRun](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/gitRun/gitRun.md)] Git
+[[코드 브레이킹](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/codeBreaking/codeBreaking.md)] DICTIONARY
 <br>
 <br>
 
