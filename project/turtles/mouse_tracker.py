@@ -43,6 +43,7 @@ turtle_speed = 1
 
 # click했을 때(click 이벤트 때) 어떤 일을 정하기
 def turnDirection(mouse_x, mouse_y):
+    print(f'x:{mouse_x}, y:{mouse_y}')
     print("clicked")
     turtle_x, turtle_y = turtle.pos()
     delta_x, delta_y = mouse_x - turtle_x, mouse_y - turtle_y
