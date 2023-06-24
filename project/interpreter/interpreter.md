@@ -2,7 +2,7 @@
 
 ## INTRODUCTION
 다시 돌아온 암호 해독 시간입니다.  
-이번에는 [이 파일](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/interpreter/BHA_JCG_JACQ.txt)을 해독해볼 거예요.  
+이번에는 [이 파일](https://github.com/happyhddey/pythonSimpleProject/blob/main/project/interpreter/BHA_JCGB_JACQ.txt)을 해독해볼 거예요.  
 링크를 따라 들어가보면,
 > BHA JCGB JACQ  
 
