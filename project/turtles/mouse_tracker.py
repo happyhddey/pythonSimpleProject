@@ -48,6 +48,7 @@ turtle_speed = 1
 
 # click했을 때(click 이벤트 때) 어떤 일을 정하기
 def turnDirection(mouse_x, mouse_y):
+    # mouse_x와 mouse_y에는 각각 마우스로 클릭한 곳의 x와 y 좌표가 들어있습니다.
     print(f'x:{mouse_x}, y:{mouse_y}')
 
     # ####################### 1번 과제 #######################
